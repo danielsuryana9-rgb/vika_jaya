@@ -36,3 +36,4 @@ Hanya Owner yang bisa login di web. Ganti password sebelum dipakai sungguhan.
 
 ## Langkah berikutnya
 Halaman Produk (CRUD), lalu REST API di `routes/api.php` (Laravel Sanctum) untuk aplikasi mobile Kasir.
+# Vika Jaya
